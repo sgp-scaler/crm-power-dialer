@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Scaler CRM Power Dialer
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Scaler CRM Power Dialer - sequential automatic lead calling with stale-lead protection
 // @match        https://sales.crm.scaler.com/*
 // @grant        GM_openInTab
@@ -12,7 +12,7 @@
 (function () {
     'use strict';
 
-    console.log("⚡ POWER DIALER v16 LOADED");
+    console.log("⚡ POWER DIALER v16.1 LOADED");
 
     // =========================================================
     // STORAGE KEYS
