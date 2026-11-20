@@ -5,8 +5,8 @@
 // @description  Scaler CRM Power Dialer - sequential automatic lead calling with stale-lead protection
 // @match        https://sales.crm.scaler.com/*
 // @grant        GM_openInTab
-// @updateURL    https://raw.githubusercontent.com/sgp-scaler/crm-power-dialer/refs/heads/main/power-dialer.user.js
-// @downloadURL  https://raw.githubusercontent.com/sgp-scaler/crm-power-dialer/refs/heads/main/power-dialer.user.js
+// @updateURL    https://raw.githubusercontent.com/sgp-scaler/crm-power-dialer/main/power-dialer.user.js
+// @downloadURL  https://raw.githubusercontent.com/sgp-scaler/crm-power-dialer/main/power-dialer.user.js
 // ==/UserScript==
 
 (function () {
